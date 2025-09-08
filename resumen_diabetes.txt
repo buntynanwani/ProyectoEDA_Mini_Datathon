@@ -1,0 +1,34 @@
+RESUMEN DETALLADO Datos Limpios
+==================================================
+Total registros en df_limpio: 532
+
+
+≤30: 321 personas
+  - <100: 117 personas (36.4%)
+  - 100-140: 148 personas (46.1%)
+  - 140-180: 47 personas (14.6%)
+  - 180+: 9 personas (2.8%)
+
+31-40: 102 personas
+  - <100: 22 personas (21.6%)
+  - 100-140: 47 personas (46.1%)
+  - 140-180: 25 personas (24.5%)
+  - 180+: 8 personas (7.8%)
+
+41-50: 68 personas
+  - <100: 20 personas (29.4%)
+  - 100-140: 27 personas (39.7%)
+  - 140-180: 16 personas (23.5%)
+  - 180+: 5 personas (7.4%)
+
+51-60: 32 personas
+  - <100: 3 personas (9.4%)
+  - 100-140: 8 personas (25.0%)
+  - 140-180: 14 personas (43.8%)
+  - 180+: 7 personas (21.9%)
+
+60+: 9 personas
+  - <100: 0 personas (0.0%)
+  - 100-140: 5 personas (55.6%)
+  - 140-180: 3 personas (33.3%)
+  - 180+: 1 personas (11.1%)
