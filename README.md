@@ -13,6 +13,9 @@ Este proyecto presenta un análisis exploratorio completo del dataset de diabete
 
 ## 📊 Dataset
 
+- link de descarga del dataset: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
+
 **Estructura del Dataset:**
 - **Registros totales iniciales:** 768 filas
 - **Variables:** 9 columnas
